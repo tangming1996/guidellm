@@ -1,5 +1,5 @@
 ---
-title: 简体中文
+title: 首页
 weight: 100
 ---
 
